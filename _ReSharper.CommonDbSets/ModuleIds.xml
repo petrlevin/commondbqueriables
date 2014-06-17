@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="D6520C91-804A-4219-96F5-8970534A5729" ModuleId="CommonDbSets" />
+  <Module PersistentId="0A9503DC-D7EF-4161-84D4-EF97C7D7CF08" ModuleId="CommonDbSets.Contracts" />
+  <Module PersistentId="7CD75A66-CBB5-4C4E-9EAA-5677B734BC0D" ModuleId="CommonDbSets.Tests" />
+  <Module PersistentId="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="EntityFramework" />
+</Modules>

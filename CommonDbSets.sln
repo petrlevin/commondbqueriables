@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDbSets", "CommonDbSets\CommonDbSets.csproj", "{D6520C91-804A-4219-96F5-8970534A5729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDbSets.Contracts", "CommonDbSets.Contracts\CommonDbSets.Contracts.csproj", "{0A9503DC-D7EF-4161-84D4-EF97C7D7CF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonDbSets.Tests", "CommonDbSets.Tests\CommonDbSets.Tests.csproj", "{7CD75A66-CBB5-4C4E-9EAA-5677B734BC0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6520C91-804A-4219-96F5-8970534A5729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6520C91-804A-4219-96F5-8970534A5729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6520C91-804A-4219-96F5-8970534A5729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6520C91-804A-4219-96F5-8970534A5729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9503DC-D7EF-4161-84D4-EF97C7D7CF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9503DC-D7EF-4161-84D4-EF97C7D7CF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9503DC-D7EF-4161-84D4-EF97C7D7CF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9503DC-D7EF-4161-84D4-EF97C7D7CF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD75A66-CBB5-4C4E-9EAA-5677B734BC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD75A66-CBB5-4C4E-9EAA-5677B734BC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD75A66-CBB5-4C4E-9EAA-5677B734BC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD75A66-CBB5-4C4E-9EAA-5677B734BC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
